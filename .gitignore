@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code workspace
+.claude/
+
+# Noibu extension (added separately via noibu-extension branch)
+sfcc-storefront/src/extensions/noibu/

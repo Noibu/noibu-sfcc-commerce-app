@@ -1,0 +1,3 @@
+[submodule "commerce-apps"]
+	path = commerce-apps
+	url = https://github.com/SalesforceCommerceCloud/commerce-apps.git
