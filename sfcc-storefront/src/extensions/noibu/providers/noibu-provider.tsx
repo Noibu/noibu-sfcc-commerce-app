@@ -1,5 +1,5 @@
 import { useEffect, type ReactNode, type ReactElement } from 'react';
-import { addAdapter } from '@/lib/adapters/adapter-store';
+import { addAdapter } from '@/lib/adapters';
 import { createNoibuAdapter, NOIBU_ADAPTER_NAME } from '../adapters/noibu-adapter';
 
 export interface NoibuProviderProps {
